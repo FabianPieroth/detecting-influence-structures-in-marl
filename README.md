@@ -38,7 +38,7 @@ The runner.py file contains the different scenarios reported in the paper. Uncom
 
 ## Evaluating the experiments
 
-Adapt the paths in logger/local_log_management.py to point at the experiments you want to evaluate.
+Adapt the paths in logger/local_log_management.py to point at the experiments you want to evaluate. Additionally, you need to adapt the plot title, metric names, etc.
 
 Then run
 
