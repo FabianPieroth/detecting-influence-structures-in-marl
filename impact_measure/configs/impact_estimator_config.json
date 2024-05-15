@@ -1,0 +1,6 @@
+{
+    "im_step_size_decay": 0.85,
+    "im_initial_step_size": 1.0,
+    "tim_step_size_decay": 0.85,
+    "tim_initial_step_size": 1.0
+}

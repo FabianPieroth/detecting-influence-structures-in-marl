@@ -1,0 +1,6 @@
+{
+    "q_learning_rate": 0.4,
+    "ltr_learning_rate": 0.1,
+    "epsilon": 0.2,
+    "epsilon_decay": 0.999
+}

@@ -1,0 +1,11 @@
+numpy
+neptune-client
+psutil
+matplotlib
+scipy
+black
+pylint
+isort
+sinkhorn_knopp
+pandas
+seaborn

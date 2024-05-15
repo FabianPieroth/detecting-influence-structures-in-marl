@@ -1,0 +1,8 @@
+{
+    "connectivity_matrix_sampling_type": "full_consensus",
+    "communication_matrix_sampling_type": "full",
+    "use_static_connectivity_matrix": false,
+    "ct_connectivity_ratio": 4,
+    "comm_connectivity_ratio": 4,
+    "comm_num_additional_edges": 8
+}

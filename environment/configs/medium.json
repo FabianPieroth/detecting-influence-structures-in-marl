@@ -1,0 +1,14 @@
+{
+    "num_agents": 10,
+    "state_size": 10,
+    "size_action_space": 2,
+    "size_state_emb_for_policy": 5,
+    "size_state_action_emb":10,
+    "reward_upper_bound": 2,
+    "add_bias_to_emb": false,
+    "dependency_matrix_type": "connectivity_ratio",
+    "dependency_block_diagonal_size": 5,
+    "num_off_diagonals": 1,
+    "connectivity_ratio": 2,
+    "env_num_dependency_edges": 8
+}

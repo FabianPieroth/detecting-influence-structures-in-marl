@@ -1,0 +1,4 @@
+{
+    "ind_critic_initial_step_size": 0.128,
+    "ind_critic_step_size_decay": 0.039
+}

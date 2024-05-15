@@ -1,0 +1,6 @@
+{
+    "actor_step_size_decay": 0.85,
+    "actor_initial_step_size": 1.0,
+    "critic_step_size_decay": 0.65,
+    "critic_initial_step_size": 1.0
+}

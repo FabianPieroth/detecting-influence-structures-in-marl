@@ -1,0 +1,5 @@
+{
+    "analytical_actor_step_size_decay": 0.01,
+    "analytical_actor_step_size": 1.0,
+    "analytical_critic_epsilon_accuracy": 1e-8
+}

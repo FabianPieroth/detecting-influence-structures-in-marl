@@ -1,0 +1,7 @@
+{
+    "q_learning_rate": 0.4,
+    "init_q_table_type": "ones",
+    "ltr_learning_rate": 0.1,
+    "epsilon": 0.2,
+    "epsilon_decay": 0.999
+}
